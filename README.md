@@ -10,8 +10,6 @@ pip install -r requirements.txt
 
 ## Usage
 
-To use the machine learning algorithms, run the following command:
-python main.py
 
 
 ## Contributing
@@ -30,5 +28,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or comments about this project, please feel free to contact the project maintainer(s) at [email@example.com](mailto:email@example.com).
+If you have any questions or comments about this project, please feel free to contact the project maintainer(s) at [imvernikos@gmail.com](mailto:imvernikos@gmail.com).
 
